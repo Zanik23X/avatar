@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Oter",
+    "rotation_period": "23 days",
+    "orbital_period": "549 days",
+    "diameter": "7,200km",
+    "climate": "frozen",
+    "gravity": "1.1 Standard",
+    "terrain": "tundra, ice caves, mountain ranges",
+    "surface_water": "100%",
+    "population": "Unknown",
+    "url": "https://i.ebayimg.com/thumbs/images/g/RX4AAOSwLfxd7Dg6/s-l300.jpg"
+  },
+  {
+    "name": "Fire",
+    "rotation_period": "24 days",
+    "orbital_period": "364 days",
+    "diameter": "12,500km",
+    "climate": "temperate",
+    "gravity": "1 Standard",
+    "terrain": "grasslands, mountains",
+    "surface_water": "40%",
+    "population": "2,000,000,000",
+    "created": "2014-12-10T11:35:48.479000Z",
+    "edited": "2014-12-20T20:58:18.420000Z",
+    "url": "https://i.ebayimg.com/images/g/Xj4AAOSwblZZHJTZ/s-l300.jpg"
+  },
+  {
+    "name": "Earch",
+    "rotation_period": "24 days",
+    "orbital_period": "4818 days",
+    "diameter": "10,200km",
+    "climate": "temperate, tropical",
+    "gravity": "1 Standard",
+    "terrain": "jungle, rainforests",
+    "surface_water": "8%",
+    "population": "1000",
+    "created": "2014-12-10T11:37:19.144000Z",
+    "edited": "2014-12-20T20:58:18.421000Z",
+    "url": "https://threehundredandsixtysix.files.wordpress.com/2011/05/earth.jpg"
+  },
+  {
+    "name": "sumvol",
+    "rotation_period": "26 days",
+    "orbital_period": "381 days",
+    "diameter": "12,765km",
+    "climate": "Tropical",
+    "gravity": "1 Standard",
+    "terrain": "Jungle, Forests, Lakes, Rivers",
+    "surface_water": "60%",
+    "population": "45,000,000",
+    "created": "2014-12-10T11:37:19.144000Z",
+    "edited": "2014-12-20T20:58:18.421000Z",
+    "url": "https://avatars.mds.yandex.net/i?id=59d3c410d821ba261296c108ea5d2f42-5544858-images-thumbs&n=13"
+  },
+  {
+    "name": "sym",
+    "rotation_period": "24 days",
+    "orbital_period": "368 days",
+    "diameter": "12,240km",
+    "climate": "Temperate",
+    "gravity": "1 Standard",
+    "terrain": "Cityscape, Mountains",
+    "surface_water": "Unknown",
+    "population": "1,000,000,000,000",
+    "created": "2014-12-10T11:37:19.144000Z",
+    "edited": "2014-12-20T20:58:18.421000Z",
+    "url": "https://g7.pngresmi.com/preview/683/385/116/aang-t-shirt-korra-toph-beifong-zuko-earth-fire-thumbnail.jpg"
+  },
+  {
+    "name": "sym",
+    "orbital_period": "5,110 days",
+    "diameter": "118,000km",
+    "climate": "Temperate",
+    "gravity": "1.5 (surface), 1 Standard (Cloud City)",
+    "terrain": "Gas Giant",
+    "surface_water": "0%",
+    "population": "6,000,000",
+    "created": "2014-12-10T11:37:19.144000Z",
+    "edited": "2014-12-20T20:58:18.421000Z",
+    "url": "https://g7.pngresmi.com/preview/683/385/116/aang-t-shirt-korra-toph-beifong-zuko-earth-fire-thumbnail.jpg"
+  }
+]
